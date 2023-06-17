@@ -21,9 +21,13 @@ Welcome to the Calculator project! This is a simple and functional calculator bu
 - CSS
 - JavaScript
 
+## Acknowledgements
+
+I worked with [ChatGPT](https://chat.openai.com/) to complete this project. ChatGPT helped me to work out the logic of the JavaScript programming behind the calculations, while I mainly worked on the front-end CSS design to visualize the calculator. 
+
 ## Live Demo
 
-Check out the live demo of the calculator [here](https://your-live-demo-url).
+Check out the live demo of the calculator [carlos-alvarezdelavega/calculator](https://carlos-alvarezdelavega.github.io/calculator/).
 
 Feel free to explore, contribute, and use this calculator for your own projects!
 
