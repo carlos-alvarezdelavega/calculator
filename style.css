@@ -4,6 +4,9 @@ body {
   font-family: 'IBM Plex Mono', serif;
   margin: auto;
   padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 header {
@@ -17,11 +20,10 @@ header h1 {
 }
 
 main {
-  display: flex;
-  flex-direction: column;
+  flex: 1;
   align-items: center;
   justify-content: center;
-  height: 40vh;
+  height: 60vh;
 }
 
 p {
@@ -29,11 +31,18 @@ p {
   margin-bottom: 20px;
 }
 
+a {
+  color: #F9DCE1;
+}
+
 .calculator {
   background-color: #333;
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+  box-sizing: border-box;
 }
 
 #display {
@@ -55,7 +64,7 @@ button {
   font-size: 18px;
   border: none;
   border-radius: 5px;
-  background-color: #f0f0f0;
+  background-color: #f2f2f2;
   cursor: pointer;
 }
 
@@ -73,5 +82,5 @@ footer {
 
 footer p {
   margin: 0;
-  font-size: 10px;
+  font-size: 13px;
 }
