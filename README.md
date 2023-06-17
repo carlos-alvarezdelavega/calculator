@@ -21,10 +21,6 @@ Welcome to the Calculator project! This is a simple and functional calculator bu
 - CSS
 - JavaScript
 
-## Acknowledgements
-
-This calculator project was made possible with the help of ChatGPT, an advanced language model developed by OpenAI. ChatGPT provided guidance and assistance in creating the HTML, CSS, and JavaScript code to bring this calculator to life.
-
 ## Live Demo
 
 Check out the live demo of the calculator [here](https://your-live-demo-url).
